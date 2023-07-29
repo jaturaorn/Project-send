@@ -1,1 +1,2 @@
-# Project-send Create React-resgistation, fecth api {React,tailwind css,axios,framer-motion,react-hook-form}
+# Project-send Create React-registration, fetch api {React,tailwind css,Axios,framer-motion,react-hook-form}
+Responsive 100%
