@@ -1,1 +1,1 @@
-# Project-send Create React-resgistation, fecth api {React,tailwind,axios,framer-motion,react-hook-form}
+# Project-send Create React-resgistation, fecth api {React,tailwind css,axios,framer-motion,react-hook-form}
